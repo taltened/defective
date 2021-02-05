@@ -1,0 +1,10 @@
+{
+	"name": "defective",
+	"version": "0.1.0",
+	"factorio_version": "1.1",
+	"dependencies": [ "base >= 1.1" ],
+	"title": "Defective",
+	"description": "Adds failure rates to most recipes, as well as options for recycling defective products.",
+	"author": "Theodore Alteneder",
+	"homepage": "https://github.com/taltened/defective"
+}
